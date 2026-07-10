@@ -39,12 +39,6 @@ A curated list of iPhone and iPad apps that help students study, stay focused, p
 - [HoursTag](https://apps.apple.com/app/id6754218117) - See any purchase as hours of work to curb student impulse spending; pay-once, no bank linking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
 - [G+Money](https://apps.apple.com/app/id6755782939) - Track spending and budgets offline, multi-currency for study-abroad; no account, no bank linking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
 
-## Related lists
-
-- [Awesome iOS Pay-Once Apps](https://github.com/alice51849/awesome-ios-pay-once)
-- [Awesome iOS Privacy-First Apps](https://github.com/alice51849/awesome-ios-privacy-first)
-- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
-- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
 
 ## Notes
 
@@ -55,6 +49,21 @@ A curated list of iPhone and iPad apps that help students study, stay focused, p
 ## Contributing
 
 Suggestions welcome via pull request. Add an app under the right category with a one-line factual description; prefer tools that genuinely help students and note if they are pay-once or offline.
+
+## Related lists
+
+Part of a family of curated, pay-once / privacy-first iOS app lists:
+
+- [Awesome iOS Language Learning](https://github.com/alice51849/awesome-ios-language-learning)
+- [Awesome iOS Kids Learning](https://github.com/alice51849/awesome-ios-kids-learning)
+- [Awesome iOS Photo Utilities](https://github.com/alice51849/awesome-ios-photo-utilities)
+- [Awesome iOS Everyday Utilities](https://github.com/alice51849/awesome-ios-everyday-utilities)
+- [Awesome iOS Privacy-First](https://github.com/alice51849/awesome-ios-privacy-first)
+- [Awesome iOS Pay-Once](https://github.com/alice51849/awesome-ios-pay-once)
+- [Awesome iOS Health & Wellness](https://github.com/alice51849/awesome-ios-health-wellness)
+- [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
+
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
 
 ## License
 

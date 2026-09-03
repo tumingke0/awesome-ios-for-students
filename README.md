@@ -18,26 +18,26 @@ A curated list of iPhone and iPad apps that help students study, stay focused, p
 ## Note-taking & Scanning
 
 - [Notability](https://apps.apple.com/app/id360593530) - Popular note-taking app with a one-time purchase option.
-- [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Scan lecture notes and handouts to searchable PDFs with OCR; on-device, pay-once. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/scanto.html)
-- [Sono Note](https://apps.apple.com/app/id6782139553) - Record lectures and get an on-device transcript, summary, and key points. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/sononote.html)
+- [ScanTo Pro](https://apps.apple.com/app/id6779977651) - Scan lecture notes and handouts to searchable PDFs with OCR; on-device, pay-once. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/scanto.html)
+- [Sono Note](https://apps.apple.com/app/id6782139553) - Record lectures and get an on-device transcript, summary, and key points. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/sononote.html)
 
 ## Focus & Productivity
 
 - [Forest](https://apps.apple.com/app/id866450515) - Focus timer that gamifies staying off your phone.
-- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Hard-block distracting apps for timed study sessions via Apple Screen Time; pay-once. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/lockhour.html)
-- [Mochi](https://apps.apple.com/app/id6785004775) - Cute, simple checklist for assignments and deadlines; free base, one-time unlock. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/mochi.html)
+- [LockHour Pro](https://apps.apple.com/app/id6780107485) - Hard-block distracting apps for timed study sessions via Apple Screen Time; pay-once. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [Mochi](https://apps.apple.com/app/id6785004775) - Cute, simple checklist for assignments and deadlines; free base, one-time unlock. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
 
 ## Exams & Career
 
 - [Anki (AnkiMobile)](https://apps.apple.com/app/id373493387) - Spaced-repetition flashcards; one-time purchase on iOS.
-- [Aim990](https://apps.apple.com/app/id6784974530) - A 30-day TOEIC L&R study plan with a weakness engine; offline. Independent app, not affiliated with ETS; no score guaranteed. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/aim990.html)
-- [CV Desk](https://apps.apple.com/app/id6781337213) - Build an ATS-friendly resume with an on-device score and keyword matcher for graduate job applications. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/cvdesk.html)
+- [Aim990](https://apps.apple.com/app/id6784974530) - A 30-day TOEIC L&R study plan with a weakness engine; offline. Independent app, not affiliated with ETS; no score guaranteed. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aim990.html)
+- [CV Desk](https://apps.apple.com/app/id6781337213) - Build an ATS-friendly resume with an on-device score and keyword matcher for graduate job applications. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
 
 ## Money
 
 - [Spendee](https://apps.apple.com/app/id1080277358) - Budget and expense tracker with a free tier.
-- [HoursTag](https://apps.apple.com/app/id6754218117) - See any purchase as hours of work to curb student impulse spending; pay-once, no bank linking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
-- [G+Money](https://apps.apple.com/app/id6755782939) - Track spending and budgets offline, multi-currency for study-abroad; no account, no bank linking. · [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
+- [HoursTag](https://apps.apple.com/app/id6754218117) - See any purchase as hours of work to curb student impulse spending; pay-once, no bank linking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstag.html)
+- [G+Money](https://apps.apple.com/app/id6755782939) - Track spending and budgets offline, multi-currency for study-abroad; no account, no bank linking. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoney.html)
 
 
 ## Notes
@@ -64,7 +64,7 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Money & Budgeting](https://github.com/alice51849/awesome-ios-money-budgeting)
 - [Awesome iOS Productivity](https://github.com/alice51849/awesome-ios-productivity)
 
-For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://open.cait518.cc/ios-app-guide/)**.
 
 ## License
 
